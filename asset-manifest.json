@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Cluba-Da-Luta/static/js/main.8a11f606.js",
+    "main.js": "/Cluba-Da-Luta/static/js/main.27bf6e8a.js",
     "static/media/platform2.jpg": "/Cluba-Da-Luta/static/media/platform2.e868252a7c8f06aab551.jpg",
     "static/media/platform3.jpg": "/Cluba-Da-Luta/static/media/platform3.1335ecd58b057bc3d782.jpg",
     "static/media/platform1.jpeg": "/Cluba-Da-Luta/static/media/platform1.4688363069bb202899ca.jpeg",
@@ -10,9 +10,9 @@
     "static/media/quizSvg.svg": "/Cluba-Da-Luta/static/media/quizSvg.c1aeb96fa23ee8b644851cfbe5867a0b.svg",
     "static/media/dashboardSvg.svg": "/Cluba-Da-Luta/static/media/dashboardSvg.2a1528505ddc03b9ee9bdc6587b37de7.svg",
     "index.html": "/Cluba-Da-Luta/index.html",
-    "main.8a11f606.js.map": "/Cluba-Da-Luta/static/js/main.8a11f606.js.map"
+    "main.27bf6e8a.js.map": "/Cluba-Da-Luta/static/js/main.27bf6e8a.js.map"
   },
   "entrypoints": [
-    "static/js/main.8a11f606.js"
+    "static/js/main.27bf6e8a.js"
   ]
 }
