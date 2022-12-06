@@ -1,10 +1,6 @@
 import React from 'react';
-import { Navigate } from 'react-router-dom';
 import MainLayout from './layouts';
 import { Home, Login, Quiz } from './views';
-
-const PrivateRoute = ({ component: Component }) =>
-  Component ? <Component /> : <></>;
 
 const routes = [
   {
@@ -13,17 +9,20 @@ const routes = [
     children: [
       {
         path: '/',
-        element: <PrivateRoute component={() => <Home />} />
+        element: <Home />
+      },
+      {
+        path: 'Cluba-Da-Luta',
+        element: <Home />
       },
       {
         path: '/login',
-        element: <PrivateRoute component={() => <Login />} />
+        element: <Login />
       },
       {
         path: '/quiz',
-        element: <PrivateRoute component={() => <Quiz />} />
-      },
-      { path: '*', element: <Navigate to="/404" /> }
+        element: <Quiz />
+      }
     ]
   }
 ];
