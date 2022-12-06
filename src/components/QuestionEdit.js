@@ -52,7 +52,7 @@ const QuestionEdit = ({ question, handleView }) => {
 
   return (
     <Box>
-      <Box>
+      <Box style={{position: 'relative', zIndex: 9999999}}>
         <Button
           color="secondary"
           sx={{ padding: 0, textTransform: 'none', margin: 0 }}
