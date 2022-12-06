@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/ClubeDaLuta/static/js/main.10d1250d.js",
+    "static/media/platform2.jpg": "/ClubeDaLuta/static/media/platform2.e868252a7c8f06aab551.jpg",
+    "static/media/platform3.jpg": "/ClubeDaLuta/static/media/platform3.1335ecd58b057bc3d782.jpg",
+    "static/media/platform1.jpeg": "/ClubeDaLuta/static/media/platform1.4688363069bb202899ca.jpeg",
+    "static/media/triangle.png": "/ClubeDaLuta/static/media/triangle.c994cb345c0888214096.png",
+    "static/media/respondidasSvg.svg": "/ClubeDaLuta/static/media/respondidasSvg.b7c88d26b229a27b464be8e582a103fd.svg",
+    "static/media/gloves.png": "/ClubeDaLuta/static/media/gloves.9ef4425c5e0d692d45a4.png",
+    "static/media/quizSvg.svg": "/ClubeDaLuta/static/media/quizSvg.c1aeb96fa23ee8b644851cfbe5867a0b.svg",
+    "static/media/dashboardSvg.svg": "/ClubeDaLuta/static/media/dashboardSvg.2a1528505ddc03b9ee9bdc6587b37de7.svg",
+    "index.html": "/ClubeDaLuta/index.html",
+    "main.10d1250d.js.map": "/ClubeDaLuta/static/js/main.10d1250d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.10d1250d.js"
+  ]
+}
